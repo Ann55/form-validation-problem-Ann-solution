@@ -11,6 +11,9 @@ body {
 h1, h3 {
   color: #576774;
 }
+h1{
+  text-align: center;
+}
 
 h1:first-child {
   margin-top: 0;
